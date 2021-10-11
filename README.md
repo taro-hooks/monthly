@@ -4,7 +4,9 @@
 
 - 每月第一周到第二周之间更新
 - 包含每月`taro-hooks`的更新内容
-- 还会自荐一些最近感觉不错的实用库
+- 还会自荐一些当月感觉不错的实用库
+
+当然也推荐大家一起贡献比较好的库, 周边以及使用[`taro-hooks`](https://github.com/innocces/taro-hooks)的案例！直接提至[issue](https://github.com/taro-hooks/monthly/issues)即可.
 
 ## 2021
 ### 十月
@@ -22,6 +24,7 @@
   - [`useWeRun`](https://taro-hooks-innocces.vercel.app/hooks/wechat/use-we-run): 获取微信运动数据
   - [`useApp`](https://taro-hooks-innocces.vercel.app/hooks/basic/use-app): 获取当前程序的唯一实例以及全局数据
   - [`usePage`](https://taro-hooks-innocces.vercel.app/hooks/basic/use-page): 获取当前页面(栈)
+  - [`如何在taro2.x中使用taro-hooks`](https://github.com/taro-hooks/taro-hooks-demo-for-taro2.x)
 
 ### 九月
 
