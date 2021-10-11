@@ -1,4 +1,6 @@
 # taro-hooks 月刊
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftaro-hooks%2Fmonthly.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftaro-hooks%2Fmonthly?ref=badge_shield)
+
 
 每月都记录`taro-hooks`的成长的月刊!  
 
@@ -48,3 +50,7 @@
   - 设备`Hooks`: 包含地理位置、电量等
   - 小程序`Hooks`: 包含管理器、API等
   - 环境`Hooks`: 包含环境判断等
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftaro-hooks%2Fmonthly.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftaro-hooks%2Fmonthly?ref=badge_large)
