@@ -1,0 +1,18 @@
+{
+  "name": "monthly",
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "devDependencies": {
+    "lint-staged": "^11.2.6",
+    "prettier": "^2.4.1"
+  }
+}
